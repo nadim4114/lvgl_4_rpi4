@@ -24,6 +24,10 @@ Copy the `config.txt` in the boot partition of the RPi4. It should already exist
 If using Linux, something like `picocom` or `minicom` is enough to do the monitoring on a PC.  
 If using Windows, something like Putty.
 
+## Enable wayland support in raspi config menu
+In termianal type sudo raspi-config
+Goto Advanced options
+Enable wayland and save settings
 
 ## Upgrade your packages (on the RPi4)
 
