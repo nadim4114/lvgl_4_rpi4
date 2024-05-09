@@ -1,7 +1,9 @@
 # Demo app for LVGL demo app 
 This repo contains a demo GUI application, which will be run on a Raspberry Pi4. The goal is to have a clean base we can work on.  
 
-It is designed to work with the hdmi
+It is designed to work with the hdmi display and touchscreen
+
+# Users can use it as reference to start a fresh project.
 
 # Run LVGL demo on RaspiOS
 
